@@ -4,4 +4,4 @@ tags={
 }
 name="Red Supply Hub Buildings"
 supported_version="1.15.3"
-remote_file_id="3009068783"
+remote_file_id="3392564816"
